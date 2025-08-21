@@ -49,3 +49,5 @@ def fetch_and_print_articles(api_url):
 
         for index, article in enumerate(articles[:1], start=1):
             print(f"Article {index}")
+
+# for testing purpose
